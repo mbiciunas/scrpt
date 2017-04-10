@@ -19,7 +19,7 @@ Tilix is a tiling terminal emulator which uses the VTE GTK+ 3 widget with the fo
 * Color schemes are stored in files and custom color schemes can be created by simply creating a new file
 * Transparent background
 * Background images
-* [About Us](https://github.com/mbiciunas/scrpt/docs/about_us.md) support (i.e. drop-down terminal)
+* [About Us](https://mbiciunas.github.io/scrpt/about_us) support (i.e. drop-down terminal)
 * Custom hyperlinks
 * Automatic (triggered) profile switches based on hostname and directory
 * Supports notifications when processes are completed out of view. Requires the Fedora notification patches for VTE
