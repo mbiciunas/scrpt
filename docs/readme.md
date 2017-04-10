@@ -1,4 +1,6 @@
 # Scrpt
+A script management system for Linux.
+
 A tiling terminal emulator for Linux using GTK+ 3. The Tilix web site for users is available at [https://gnunn1.github.io/tilix-web](https://gnunn1.github.io/tilix-web).
 
 *Note that Terminix is changing it's name to Tilix due to a trademark issue with the Terminix International Corporation. It may take a few weeks to complete the process, thank you in advance for your patience while we work through this change.*
