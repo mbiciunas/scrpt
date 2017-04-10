@@ -1,10 +1,7 @@
-# Tilix
-A tiling terminal emulator for Linux using GTK+ 3. The Tilix web site for users is available at [https://gnunn1.github.io/tilix-web](https://gnunn1.github.io/tilix-web).
+# Scrpt
 
-*Note that Terminix is changing it's name to Tilix due to a trademark issue with the Terminix International Corporation. It may take a few weeks to complete the process, thank you in advance for your patience while we work through this change.*
-
-###### Screenshot
-![Screenshot](https://gnunn1.github.io/tilix-web/assets/images/gallery/tilix-screenshot-1.png)
+## About Mark
+Mark is a software developer
 
 ### About
 
@@ -19,7 +16,7 @@ Tilix is a tiling terminal emulator which uses the VTE GTK+ 3 widget with the fo
 * Color schemes are stored in files and custom color schemes can be created by simply creating a new file
 * Transparent background
 * Background images
-* [Quake mode](https://github.com/gnunn1/tilix/wiki/Quake-Mode) support (i.e. drop-down terminal)
+* [About Us](https://github.com/mbiciunas/scrpt/docs/about_us) support (i.e. drop-down terminal)
 * Custom hyperlinks
 * Automatic (triggered) profile switches based on hostname and directory
 * Supports notifications when processes are completed out of view. Requires the Fedora notification patches for VTE
