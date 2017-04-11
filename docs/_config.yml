@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: Script
+description: Manage Linux scripts with tagging
+show_downloads: true
