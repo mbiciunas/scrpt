@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
-tar_url: https://github.com/github/metadata-example/tarball/gh-pages
+title: Script
+description: Manage Linux scripts with tagging
+show_downloads: true
